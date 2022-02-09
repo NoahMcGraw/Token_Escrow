@@ -1,5 +1,6 @@
 .vscode/
 client/node_modules/
+client/src/assets/main.css
 /.pnp
 .pnp.js
 
